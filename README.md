@@ -2,7 +2,7 @@
 
 **Co-Author:**  [leslie](https://github.com/leslie2046)、 hjlarry  
 **Version:** 0.0.1  
-**Type:** tool
+**Type:** tool  
 **Repo:** [https://github.com/hjlarry/dify-plugin-object_detection](https://github.com/hjlarry/dify-plugin-object_detection)
 
 ### Description
